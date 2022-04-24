@@ -1,4 +1,4 @@
-Hi 👋 My name is SOheyb Merah
+Hi 👋 My name is Soheyb Merah
 =============================
 
 Backend Developer
