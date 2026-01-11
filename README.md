@@ -4,7 +4,7 @@ Hi 👋 My name is Soheyb Merah
 Backend Developer
 -----------------
 
-*   🌍  I'm based in Algeria
+*   🌍  I'm based in Portugal
 *   🖥️  See my portfolio at [My Portfolio](https://splimter.com)
 *   ✉️  You can contact me at [merah.soheyb@gmail.com](mailto:merah.soheyb@gmail.com)
 *   🧠  I'm learning RUST
